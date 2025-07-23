@@ -1,15 +1,29 @@
-## Olá eu sou o Rafael! :grinning:
+# 👋 Opa! Eu sou o Rafael Costa Fernandes
 
-ReadMe em criação 🔧⚙️
+🎓 Formado em Análise de Sistemas | 💻 Iniciando minha jornada na área de **Tecnologia e Dados**
 
+Sou apaixonado por resolver problemas, aprender tecnologias e criar soluções com impacto real. Estou em transição de carreira e focado no desenvolvimento de habilidades técnicas e projetos práticos.
 
-  
-  ##
- 
-<div> 
+## 🚀 Áreas de Interesse
+- 🔹 Power BI e visualização de dados
+- 🔹 Python para automações e análise
+- 🔹 SQL e banco de dados
+- 🔹 Desenvolvimento Back-End
+- 🔹 Integração com APIs e automações
 
-  <a href="https://www.instagram.com/rafaelcostafernandesbjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafaelcostafernandes@yahoo.com"><img src="https://img.shields.io/badge/YAHOO-black?logo=yahoo&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaelcostafernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 📘 Em aprendizado constante
+Atualmente estou estudando e preparando meus primeiros projetos. Este perfil será atualizado com repositórios voltados para análise de dados, relatórios inteligentes e automações.
+
+Fique de olho, vem coisa boa por aí!
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelcostafernandes/)
+- 📧 Email: rafaelcostafernandes@yahoo.com  
+- 📱 WhatsApp: (38) 9 9159-0896
+
+---
+
+> Obrigado pela visita! Volte sempre pra ver as novidades 😄
